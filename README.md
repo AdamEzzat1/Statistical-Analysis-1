@@ -1,4 +1,4 @@
-# Statistical-Analysis-1
+# Statistical-Analysis
 This covers wide range of atatistical anlaysis models include: 
 + linear regression, non-linear regression, logistic regression, Gaussian Distribution.
 + Plotting
